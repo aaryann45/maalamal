@@ -2,3 +2,24 @@
     margin: 0; 
     padding: 0; 
 }
+
+body { 
+    color: white; 
+    background-color: var(--primary);
+}
+
+.home_container { 
+    border: 2px solid red;
+    margin-top: 10%; 
+    /* padding-left: 50%; */
+}
+
+.header { 
+    font-weight: bold;
+    font-family: var(--inter);
+    font-size:  120px;
+    margin-left:35%; 
+}
+.header>span{
+border-bottom: 2px solid white;
+}

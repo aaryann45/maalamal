@@ -49,8 +49,9 @@ body {
     font-size: 90px;
 }
 .rules-list {
-    border: 2px solid red; 
+    /* border: 2px solid red;  */
     margin-top: 4em; 
     font-family: var(--inter);
     padding:5px;
+    margin-left: 10%;
 }
